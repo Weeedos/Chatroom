@@ -16,7 +16,7 @@
 
 - Stránka by měla fungovat na 13.51.205.145
 
-- Postupujte následovně
+- Pokud ne, postupujte následovně:
 1. Klonujte repozitář.
 2. Nainstalujte a nakonfigurujte Xampp.
 3. Připravte si MySQL databázi.
